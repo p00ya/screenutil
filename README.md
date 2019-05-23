@@ -1,5 +1,7 @@
 # Screenutil
-This is abandonware formerly found at mowlem-enterprises.co.uk. Copyright unknown.
+ScreenUtil v1.0 - Copyright (C) Mowlem Enterprises Ltd 2006.
+
+This is abandonware formerly found at mowlem-enterprises.co.uk.
 
 Use it to change screen resolution on a mac programatically:
     
